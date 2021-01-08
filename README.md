@@ -1,5 +1,5 @@
 # Python Exercices
-This repository contains several python excercises.
+This repository contains several python exercises.
 
 ## List of Excercises
 
