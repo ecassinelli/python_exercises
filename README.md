@@ -1,5 +1,5 @@
 # Python Exercices
-This repository contains several python exercises.
+This repository contains my solution for several python exercises from the book "The Python Workbook", by Ben Stephenson. 
 
 ## List of Excercises
 
